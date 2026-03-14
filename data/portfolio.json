@@ -1,0 +1,27 @@
+{
+  "name": "uhig",
+  "role": "hwufhu",
+  "tagline": "Crafting scalable software solutions with precision and expertise.",
+  "heroImageUrl": "https://static.everypixel.com/ep-pixabay/0329/8099/0858/84037/3298099085884037069-head.png",
+  "about": "With five years of experience as a Software Development Engineer, I specialize in building robust applications and optimizing system performance. I am dedicated to writing clean, maintainable code and leveraging modern technologies to solve complex technical challenges.",
+  "experience": 5,
+  "currentRole": "sde",
+  "highlights": [
+    "tyigouh"
+  ],
+  "skills": [
+    {
+      "name": "Test",
+      "skills": [
+        "Hello"
+      ]
+    }
+  ],
+  "projects": [],
+  "contact": {
+    "email": "tj@adizen.ai",
+    "linkedin": "https://medium.com/jorgeacetozi/kubernetes-master-components-etcd-api-server-controller-manager-and-scheduler-3a0179fc8186",
+    "github": "https://medium.com/jorgeacetozi/kubernetes-master-components-etcd-api-server-controller-manager-and-scheduler-3a0179fc8186",
+    "twitter": "https://medium.com/jorgeacetozi/kubernetes-master-components-etcd-api-server-controller-manager-and-scheduler-3a0179fc8186"
+  }
+}
